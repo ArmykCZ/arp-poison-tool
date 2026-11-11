@@ -25,8 +25,6 @@ python3 __main__.py
 
 ## Contributors
 
-Thank you to everyone who has contributed to this project:
-
 - [**@DamiTheClown**](https://github.com/DamiTheClown)
 - [**@Armyk**](https://github.com/ArmykCZ)
 
